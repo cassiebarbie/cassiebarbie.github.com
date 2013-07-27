@@ -4,7 +4,7 @@
   <title><![CDATA[Rhapsody]]></title>
   <link href="http://cassiebarbie.github.io/atom.xml" rel="self"/>
   <link href="http://cassiebarbie.github.io/"/>
-  <updated>2013-07-27T13:50:42-07:00</updated>
+  <updated>2013-07-27T14:34:14-07:00</updated>
   <id>http://cassiebarbie.github.io/</id>
   <author>
     <name><![CDATA[Cassie Yu]]></name>
@@ -12,5 +12,21 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Hello Octopress]]></title>
+    <link href="http://cassiebarbie.github.io/blog/2013/07/27/hello-octopress/"/>
+    <updated>2013-07-27T13:53:00-07:00</updated>
+    <id>http://cassiebarbie.github.io/blog/2013/07/27/hello-octopress</id>
+    <content type="html"><![CDATA[<p>This is my first blog on Octopress. LOL Excited to have this done finally! I want to share you some desserts I made yesterday, Coconut Milk Pudding decorated with mango and grass jelly. Soooooo Cute and Yummmmmmy!</p>
+
+<p><img src="http://cassiebarbie.github.io/images/posts_images/IMG_0376.png" alt="Yummy Pudding. My first time tried to make pudding ;)" /></p>
+
+<!-- more -->
+
+
+
+]]></content>
+  </entry>
   
 </feed>
