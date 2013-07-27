@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://cassiebarbie.github.io/sitemap.xml 
