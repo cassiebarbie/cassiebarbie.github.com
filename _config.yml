@@ -3,11 +3,11 @@
 # ----------------------- #
 
 url: http://cassiebarbie.github.io
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+title: Rhapsody
+subtitle: Cassie's Blog
+author: Cassie Yu
 simple_search: http://google.com/search
-description:
+description: Low-carbon Life . Programmer . Financial Engineering
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
@@ -19,7 +19,7 @@ date_format: "ordinal"
 subscribe_rss: /atom.xml
 subscribe_email:
 # RSS feeds can list your email address if you like
-email:
+email: yu_kexin@hotmail.com
 
 # ----------------------- #
 #    Jekyll & Plugins     #
@@ -63,17 +63,20 @@ default_asides: [asides/recent_posts.html, asides/github.html, asides/delicious.
 # ----------------------- #
 
 # Github repositories
-github_user:
+github_user: cassiebarbie
 github_repo_count: 0
 github_show_profile_link: true
 github_skip_forks: true
 
 # Twitter
-twitter_user:
+twitter_user: YuCassie
 twitter_tweet_button: true
 
+# LinkedIn
+linkedin_user: kexinyu
+
 # Google +1
-google_plus_one: false
+google_plus_one: true
 google_plus_one_size: medium
 
 # Google Plus Profile
@@ -97,4 +100,5 @@ disqus_show_comment_count: false
 google_analytics_tracking_id:
 
 # Facebook Like
-facebook_like: false
+facebook_like: true
+facebook_user: cassie.yu.3
