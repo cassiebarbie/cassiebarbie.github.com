@@ -2,15 +2,19 @@
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
         <loc>http://cassiebarbie.github.io/blog/2013/07/27/hello-octopress/</loc>
-        <lastmod>2013-07-27T14:34:00-07:00</lastmod>
+        <lastmod>2013-07-27T14:48:07-07:00</lastmod>
+    </url>
+    <url>
+        <loc>http://cassiebarbie.github.io/about/</loc>
+        <lastmod>2013-07-27T15:20:22-07:00</lastmod>
     </url>
     <url>
         <loc>http://cassiebarbie.github.io/blog/archives/</loc>
-        <lastmod>2013-07-27T14:34:00-07:00</lastmod>
+        <lastmod>2013-07-27T14:48:07-07:00</lastmod>
     </url>
     <url>
         <loc>http://cassiebarbie.github.io/</loc>
-        <lastmod>2013-07-27T14:34:00-07:00</lastmod>
+        <lastmod>2013-07-27T14:48:07-07:00</lastmod>
     </url>
     <url>
         <loc>http://cassiebarbie.github.io/search.html</loc>
