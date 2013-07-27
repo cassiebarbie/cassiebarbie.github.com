@@ -2,10 +2,14 @@
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
         <loc>http://cassiebarbie.github.io/blog/archives/</loc>
-        <lastmod>2013-07-27T12:44:03-07:00</lastmod>
+        <lastmod>2013-07-27T13:43:14-07:00</lastmod>
     </url>
     <url>
         <loc>http://cassiebarbie.github.io/</loc>
-        <lastmod>2013-07-27T12:44:03-07:00</lastmod>
+        <lastmod>2013-07-27T13:43:14-07:00</lastmod>
+    </url>
+    <url>
+        <loc>http://cassiebarbie.github.io/search.html</loc>
+        <lastmod>2013-07-27T13:43:14-07:00</lastmod>
     </url>
 </urlset>
