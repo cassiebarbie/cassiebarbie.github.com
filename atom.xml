@@ -4,7 +4,7 @@
   <title><![CDATA[Rhapsody]]></title>
   <link href="http://cassiebarbie.github.io/atom.xml" rel="self"/>
   <link href="http://cassiebarbie.github.io/"/>
-  <updated>2013-07-27T16:21:00-07:00</updated>
+  <updated>2013-07-27T17:38:39-07:00</updated>
   <id>http://cassiebarbie.github.io/</id>
   <author>
     <name><![CDATA[Cassie Yu]]></name>
@@ -12,6 +12,36 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[A Case Study for My Summer Intern]]></title>
+    <link href="http://cassiebarbie.github.io/blog/2013/07/27/a-case-study-for-my-summer-intern/"/>
+    <updated>2013-07-27T17:12:00-07:00</updated>
+    <id>http://cassiebarbie.github.io/blog/2013/07/27/a-case-study-for-my-summer-intern</id>
+    <content type="html"><![CDATA[<p>I worked as a summer intern in HikVision USA, one of the world largest suppliers of video surveillance products and solutions. Here is part of a case study I wrote for HikVision CCTVs equipped at San Diego Zoo Panda Den, aiming at helping the company to promote their high resolution cameras. A complete report can be found on the company&rsquo;s official website: <a href="http://www.hikvision.com/en/us/SuccessStory.asp">http://www.hikvision.com/en/us/SuccessStory.asp</a></p>
+
+<!-- more -->
+
+
+<blockquote><h2>Hikvision in Panda Den</h2>
+
+<h3>Case Study for San Diego Zoo Panda Den</h3>
+
+<p><strong><em>Panda at San Diego Zoo On View</em></strong></p>
+
+<p>The San Diego Zoo has had a love affair with giant pandas ever since two of the black-and-white bears came to visit in 1987. After years of red tape and tons of application paperwork, the Zoo and China agreed on a 12-year research loan of two giant pandas, Bai Yun and Shi Shi. A brand-new exhibit area was built for the panda guests, which has since been expanded and renovated and is now called the Giant Panda Research Station.</p>
+
+<p>The pandas enjoy deluxe accommodations with large exhibit areas, extra vegetation, and climbing structures. With the technical support from Hikvision, the video system in Panda den has changed a lot over the years and, importantly, the zoo’s Panda Trek is able to share magical experience of cute pandas there with the world.</p>
+
+<p><strong><em>Panda Den Cam</em></strong></p>
+
+<p>The panda den is equipped with eight Hikvision analog cameras: four units of analog speed dome DS-2AF1-401X are mounted on ceiling and four units of vandal-proof and weatherproof analog dome cameras DS-2CC5173N-VPIR are mounted on the side of the birthing den.</p>
+
+<p>DS-2AF1-401X is a pan–tilt–zoom camera (PTZ camera) that is capable of remote directional and zoom control, which boosts the coverage of the den without any dead angel. DS-2CC5173N-VPIR, whose IR capability runs from 60 to 100 ft. and shutter speed ranges from 1/60 to 1/100,000 second, is able to automatically adjusted day and night mode to give keepers and veterinarians the best view all day along, allowing keepers to track and see panda mom and cub to acquire their slightest movements. With a DS-6101HFI-IP-SD encoder, which connects to the analog cameras via a coaxial cable and converts analog video signals into digital video streams, so that zoo workers can share videos of cute panda online with the world. To view and record the digital video, a DS-9108HFI-ST DVR also installed in the system.</p></blockquote>
+
+<p>Read More: <a href="http://www.hikvision.com/en/us/SuccessStory.asp">http://www.hikvision.com/en/us/SuccessStory.asp</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Hello Octopress]]></title>
