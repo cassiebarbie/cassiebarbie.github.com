@@ -11,8 +11,11 @@ This is my first blog on Octopress. LOL Excited to have this done finally! I wan
 
 
  
-![Yummy Pudding. My first time tried to make pudding ;)](/images/posts_images/IMG_0376.png "")
- 
+<html>
+ <img src="https://github.com/cassiebarbie/cassiebarbie.github.com/blob/master/images/posts_images/IMG_0376.PNG?raw=true" width="400" height="600" />
+
+ </html>
+
 <!-- more -->
  
 
